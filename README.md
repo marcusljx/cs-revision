@@ -4,6 +4,11 @@ A small repository for revising CS concepts
 ## Topics
 ### Environment
 - Learn to use GitHub
+  - Forking repositories
+  - Making changes on a branch
+  - Pull Requests
+  - Code Reviews
+  - Pushing to `main`
 - Learn to setup programming environment from fresh install
 
 ### Arrays
