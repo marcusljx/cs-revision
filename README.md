@@ -9,10 +9,22 @@ A small repository for revising CS concepts
 ### Arrays
 - Arrays and for loops
 - Implement an array-backed Hashmap
+- Sum of integers
+- Maximum/Minimum integer in array
+- Find duplicate integer in unsorted range of integers
 
 ### Queues
+- FIFO
+
 ### Stack
+- LIFO
+- Implement a stack using 2 queues
+
 ### Heaps
+- Implement a heap
+- Heapsort
+- Priority Queue using heap
+- Find maximum number under K in array
 
 ### Strings
 - Anagram matcher
