@@ -72,9 +72,12 @@ A small repository for revising CS concepts
 - Minimum Spanning Tree
 
 ### Computational Arithmetic
+> Some of the following exercises may require a strictly-typed language, which means Python is out of the question.
+> I strongly recommend picking up `go`.
 - Kerninghan's algorithm for finding set bits in an Integer
 - Lowest Common Multiple
 - Sieve of Erastothenes
+- Highest Prime number that fits into k-bits
 
 ### Dynamic programming
 - Maximum profit on single stock share
